@@ -3,4 +3,3 @@ captions.txt
 image_feature_extracted.pkl
 model.h5
 tokenizer.pickle
-asset/output.png
